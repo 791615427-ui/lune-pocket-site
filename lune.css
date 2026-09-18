@@ -652,3 +652,8 @@ dialog.letter-dialog{width:calc(100% - 26px);max-width:486px;height:min(840px,ca
   .opened-letter-footer{grid-template-columns:1fr auto 48px;gap:6px}
   .opened-letter-footer img{width:48px;height:48px}
 }
+
+/* Keep Edge/Chromium page-color features from recoloring the light scrapbook theme. */
+:root:not([data-dark=true]){color-scheme:only light!important;forced-color-adjust:none}
+:root:not([data-dark=true]) body,:root:not([data-dark=true]) .phone,:root:not([data-dark=true]) .phone *{color-scheme:only light!important;forced-color-adjust:none}
+:root:not([data-dark=true]) body,:root:not([data-dark=true]) .phone{background-image:linear-gradient(var(--bg),var(--bg))}

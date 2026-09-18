@@ -1,0 +1,32 @@
+[
+  {
+    "font": "wenkai",
+    "repo": "https://github.com/lxgw/LxgwWenKai-Lite",
+    "release": "v1.522",
+    "url": "https://github.com/lxgw/LxgwWenKai-Lite/releases/download/v1.522/LXGWWenKaiLite-Regular.ttf",
+    "bytes": 13872424
+  },
+  {
+    "font": "xiaolai",
+    "repo": "https://github.com/lxgw/kose-font",
+    "release": "v3.126",
+    "url": "https://github.com/lxgw/kose-font/releases/download/v3.126/Xiaolai-Regular.ttf",
+    "bytes": 22220806
+  },
+  {
+    "font": "chillround",
+    "repo": "https://github.com/Warren2060/ChillRound",
+    "release": "main / ChillRoundF v3.0.ttf",
+    "url": "https://raw.githubusercontent.com/Warren2060/ChillRound/main/ChillRoundF%20v3.0.ttf",
+    "bytes": 6168772
+  },
+  {
+    "font": "jason-handwriting-8p",
+    "repo": "https://github.com/jasonhandwriting/JasonHandwriting",
+    "release": "master",
+    "url": "https://raw.githubusercontent.com/jasonhandwriting/JasonHandwriting/master/JasonHandwriting8p.ttf",
+    "bytes": 9500240,
+    "sha256": "368e64b89d468f72986a576674f8a4344c464d4d3f4596c93fe6692c70c18743",
+    "license": "SIL OFL 1.1 (author repository README)"
+  }
+]

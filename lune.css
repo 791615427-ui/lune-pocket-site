@@ -144,7 +144,7 @@ dialog{background:color-mix(in srgb,var(--bg) 96%,white);border-color:var(--hair
 .modal-head .modal-close:focus-visible{outline:2px solid #7295b1;outline-offset:2px}
 
 @media(max-width:600px){
-  .phone{border-radius:28px}
+  .phone{border-radius:0}
   .topbar{padding-inline:20px}
   .view{padding-inline:20px}
   .lune-hero{height:286px}
